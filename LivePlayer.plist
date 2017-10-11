@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://118.126.10.86/ios/icon_114.png</string>
+					<string>https://github.com/pingguocaihuiying/live/blob/master/Icon-144.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://118.126.10.86/ios/icon_57.png</string>
+					<string>https://github.com/pingguocaihuiying/live/blob/master/Icon-50.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
